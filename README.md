@@ -1,1 +1,1 @@
-# Project1-Rock-Paper-Scissors-
+# Project1-Rock-Paper-Scissors
